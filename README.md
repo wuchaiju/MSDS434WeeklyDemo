@@ -39,3 +39,7 @@ https://github.com/wuchaiju/MSDS434WeeklyDemo/assets/156159189/a79e45f8-76d7-4e4
 https://github.com/wuchaiju/MSDS434WeeklyDemo/assets/156159189/e4a79f80-fd50-462d-a6bf-01497c775af8
 
 ## Step 10: Implement a Production Environment
+
+https://github.com/wuchaiju/MSDS434WeeklyDemo/assets/156159189/6748cb0f-bbac-4602-8d18-50142c0196f4
+
+
